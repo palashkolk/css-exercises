@@ -1,0 +1,19 @@
+.class1{
+    background-color:rgb(255, 192, 203);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+
+}
+.class1.cooler{
+    font-size: 25px;
+}
+#num2{
+    font-size: 35px;
+    color: hsl(240, 100%, 50%);
+}
+#num4{
+    font-weight: bold;
+    font-size: 25px;
+    /* color: ; */
+    background-color: #60d660;
+}
