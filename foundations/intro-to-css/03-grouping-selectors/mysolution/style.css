@@ -1,0 +1,17 @@
+.leftbox{
+    background-color: black;
+    color: white;
+    
+}
+
+.rightbox{
+    background-color: yellow;
+
+}
+
+.leftbox, 
+.rightbox {
+    font-family:Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+
+}
